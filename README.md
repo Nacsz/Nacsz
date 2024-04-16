@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/devxb/gitanimals">
-    <img src = "https://render.gitanimals.org/farms/{twkim5235}"/>
+    <img src = "https://render.gitanimals.org/farms/{nacsz}"/>
 </a>
