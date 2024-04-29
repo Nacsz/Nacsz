@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHOI JAESEOK%20Studying&fontSize=90" />
 
 
-
-# [OSS Repository](https://github.com/Nacsz/OSS_Practice)
-
+# Open Source
+## >[OSS Repository](https://github.com/Nacsz/OSS_Practice)
+## >[Mid-Term-Project](https://github.com/Nacsz/Mid-Term-Project)
 
 <!--
 **Nacsz/Nacsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
