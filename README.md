@@ -3,7 +3,7 @@
 ## 안녕하세요! 최재석 입니다.
 ### 안녕하세요. 단국대학교 재학 중인 소프트웨어학과 최재석입니다.
 #![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nacsz&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nacsz&show_icons=true&theme=radical)
 
 # Open Source
 > [OSS Repository](https://github.com/Nacsz/OSS_Practice)
