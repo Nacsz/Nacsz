@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
+<img src = "./img/2_8.jpeg" width="40%">
 
+<img src = "https://example.com/sampleImg.png" width="400px">
 
-<font size=5>[OSS Repository](https://github.com/Nacsz/OSS_Practice)</font></br>
+[OSS Repository](https://github.com/Nacsz/OSS_Practice)
 <!--
 **Nacsz/Nacsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
