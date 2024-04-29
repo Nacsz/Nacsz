@@ -4,7 +4,7 @@
 ### 단국대학교 / 소프트웨어학과 / 20학번
 #### 안녕하세요. 최재석입니다. 혼자 여행다니는걸 좋아합니다.
 
-![ㅅㅈ-전체 사진-58314865313](https://github.com/Nacsz/Nacsz/assets/164845941/e82962d0-f1ec-44c3-b80c-181ac5c42c7c)
+<img src = "https://github.com/Nacsz/Nacsz/assets/164845941/e82962d0-f1ec-44c3-b80c-181ac5c42c7c" width="40%">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nacsz&show_icons=true&theme=default)
 
 
