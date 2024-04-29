@@ -2,14 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
-[link keyword][id]
-
-[id]: URL "Optional Title here"
-
-// code
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com "Go google"
+사용문법: [Title](link)
+적용예: [Google](https://google.com, "google link")
 
 <!--
 **Nacsz/Nacsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
