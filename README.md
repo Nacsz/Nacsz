@@ -6,7 +6,7 @@
 
 <img src = "https://github.com/Nacsz/OSS_Practice" width="400px">
 
-###[OSS Repository](https://github.com/Nacsz/OSS_Practice)
+### [OSS Repository](https://github.com/Nacsz/OSS_Practice)
 <!--
 **Nacsz/Nacsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
