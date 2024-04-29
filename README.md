@@ -4,7 +4,7 @@
 
 <img src = "./img/2_8.jpeg" width="40%">
 
-<img src = "https://example.com/sampleImg.png" width="400px">
+<img src = "https://github.com/Nacsz/OSS_Practice" width="400px">
 
 [OSS Repository](https://github.com/Nacsz/OSS_Practice)
 <!--
