@@ -4,7 +4,7 @@
 ### 단국대학교 / 소프트웨어학과 / 20학번
 #### 안녕하세요. 최재석입니다. 혼자 여행다니는걸 좋아합니다.
 
-<img src = "https://github.com/Nacsz/Nacsz/assets/164845941/e82962d0-f1ec-44c3-b80c-181ac5c42c7c" width="65%">
+<img src = "https://github.com/Nacsz/Nacsz/assets/164845941/e82962d0-f1ec-44c3-b80c-181ac5c42c7c" width="60%">
 
 <img src = "https://github.com/Nacsz/Mid-Term-Project/assets/164845941/d288c40b-0611-463c-98dc-ba3dcaaceb4c" width="25%">
 
