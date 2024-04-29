@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHOI%20JAESEOK%20Studying&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHOI%20JS%20Studying&fontSize=90" />
 
 
 # Open Source
